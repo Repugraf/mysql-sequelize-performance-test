@@ -1,0 +1,17 @@
+{
+  "name": "mysql-sequelize-performance-test",
+  "version": "1.0.0",
+  "description": "Project is created for performanse geeks",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ."
+  },
+  "keywords": [],
+  "author": "Serhii Mamedov",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "mysql2": "^2.1.0",
+    "sequelize": "^5.21.6"
+  }
+}
