@@ -4,7 +4,7 @@
 <p>Available fields you can find in <code>config.js</code> file</p>
 <hr>
 <h2>Example results</h2>
-<code>
+======================================<br>
 ==== INSERT 100 rows (one by one) ====<br>
 mysql-query: 265.865ms<br>
 sequelize-query: 324.281ms<br>
@@ -21,4 +21,3 @@ sequelize-query: 125.969ms<br>
 mysql-query: 43.321ms<br>
 sequelize-query: 95.166ms<br>
 ======================================<br>
-</code>
